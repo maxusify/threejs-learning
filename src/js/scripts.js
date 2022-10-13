@@ -2,8 +2,6 @@ import * as THREE from "three";
 import * as dat from "dat.gui";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
 
-import nebula from "../img/nebula.jpg";
-import quasar from "../img/quasar.png";
 import andromeda from "../img/andromeda.jpg";
 
 const renderer = new THREE.WebGL1Renderer();
